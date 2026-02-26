@@ -10,8 +10,12 @@ IaaS- (Infrastructure as a Service)
 Amazon EC2
 
 Google Compute Engine
+//===================================
 
 Public vs Private Cloud
+👉 সবার জন্য available
+👉 Internet দিয়ে access
+👉 Shared infrastructure
 
 //================================
 
