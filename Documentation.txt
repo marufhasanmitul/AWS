@@ -1,0 +1,102 @@
+Cloud কী?
+-Cloud Computing মানে হচ্ছে —
+নিজের কম্পিউটার বা সার্ভার না রেখে ইন্টারনেটের মাধ্যমে অন্যের data center ব্যবহার করা।
+//======================================================
+IaaS, PaaS, SaaS-এগুলো হচ্ছে Cloud Service Model।
+
+IaaS- (Infrastructure as a Service)
+উদাহরণ:
+
+Amazon EC2
+
+Google Compute Engine
+
+Public vs Private Cloud
+
+//================================
+
+
+
+On-Premise vs Cloud
+
+AWS কী?
+
+Region & Availability Zone
+
+Free Tier account তৈরি
+//=======================================
+
+Service	কাজ
+EC2	Virtual Server
+S3	Storage
+IAM	User & Permission
+RDS	Managed Database
+VPC	Networking
+
+//=======================================
+🔹 Important Services
+
+Amazon EC2
+
+Amazon S3
+
+Amazon RDS
+
+Amazon VPC
+
+AWS IAM
+//=========================================
+
+🚀 Phase 2: Intermediate Level
+✅ 4️⃣ Backend Deployment
+
+তুমি যেহেতু API নিয়ে কাজ করো:
+
+EC2 তে Node.js / PHP API deploy
+
+RDS এর সাথে connect
+
+S3 তে image upload
+
+Security Group configure
+//===========================================
+✅ 5️⃣ Serverless Architecture
+
+AWS Lambda
+
+Amazon API Gateway
+
+Amazon DynamoDB
+
+👉 Flutter App → API Gateway → Lambda → DynamoDB
+🔥 এটা modern architecture
+//=============================================
+
+6️⃣ DevOps Basic
+
+CI/CD
+
+AWS CodePipeline
+
+AWS CodeBuild
+
+Docker basic
+//===============================================
+✅ 8️⃣ Security Deep Dive
+
+IAM Policy Advanced
+
+Role vs User
+
+KMS
+
+Secrets Manager
+//==============================================
+
+✅ 9️⃣ Monitoring & Logging
+
+Amazon CloudWatch
+
+AWS CloudTrail
+
+//================================
